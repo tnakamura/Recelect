@@ -13,6 +13,7 @@
     <PackageTags>redux memoized-selectors</PackageTags>
     <PackageProjectUrl>https://github.com/tnakamura/Recelect</PackageProjectUrl>
     <RepositoryUrl>https://github.com/tnakamura/Recelect.git</RepositoryUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/tnakamura/Recelect/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
