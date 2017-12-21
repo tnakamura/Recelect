@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <Version>0.0.1</Version>
+    <Authors>tnakamura</Authors>
+    <Company />
+    <Copyright>tnakamura</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Selector library for Redux in C# - Inspired by reselect</Description>
+    <NeutralLanguage>en</NeutralLanguage>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>redux memoized-selectors</PackageTags>
+    <PackageProjectUrl>https://github.com/tnakamura/Recelect</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/tnakamura/Recelect.git</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
